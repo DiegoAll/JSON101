@@ -21,3 +21,15 @@ iterating-over-all-the-keys-of-a-map
 https://stackoverflow.com/questions/1841443/iterating-over-all-the-keys-of-a-map
 
 
+
+https://steemit.com/cervantes/@orlmicron/maps-en-go-golang
+
+
+
+
+https://yalantis.com/blog/speed-up-json-encoding-decoding/
+
+https://hossainemruz.gitbook.io/notes/go/conversion/map-string-interface-to-struct
+
+
+https://yourbasic.org/golang/json-example/
